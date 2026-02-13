@@ -1,0 +1,113 @@
+(footprint "TestPoint_Pad_D1.0mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "SMD pad as test Point, diameter 1.0mm")
+	(tags "test point SMD pad")
+	(property "Reference" "REF**"
+		(at 2.5 0.25 0)
+		(layer "F.SilkS")
+		(uuid "b0622f42-98bf-4719-9a5a-aef6764648ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "AVDD1"
+		(at 0 1.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa4a4c6c-206a-4559-851c-367fe519c41b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcd184be-5c4c-46c4-a65d-a7ac36639a62")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa95d758-a062-4863-9e9d-b5c246d3115e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "test point"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90bc237a-693f-4a26-803d-98411153e83c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "143cb935-afe2-4dcf-8471-ad47dbdc1f6d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "daee1115-dbf1-4e9e-aefd-45909b5b3307")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -1.45 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8861c828-8aaf-466e-acfe-cee95307a3bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(uuid "6830d731-0452-4a2f-9d42-392319ecf195")
+	)
+)

@@ -1,0 +1,102 @@
+(footprint "MountingHole_3.2mm_M3_ISO14580"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Mounting Hole 3.2mm, no annular, M3, ISO14580")
+	(tags "mounting hole 3.2mm no annular m3 iso14580")
+	(property "Reference" "REF**"
+		(at 0 -3.75 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4b874c95-1fef-4095-b390-0d0d08ab61dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole"
+		(at 0 3.75 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17244043-85bc-40b4-918b-69afb49ca514")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eabecf40-a146-4e85-a01e-1da373445a19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a7b0714-e018-48a6-af85-7b4161a3a318")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole without connection"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0204494d-04a9-442d-91f7-42a057e99c49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.75 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "d8e1b161-fc57-493a-9beb-aeaaeb3d6c21")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "bd7ea314-9e7a-4a8f-8877-404ea20f6042")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "fcc4ec32-16ab-40e6-b73d-55dd550d2f6b")
+	)
+)

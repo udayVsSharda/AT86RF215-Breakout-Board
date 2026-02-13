@@ -1,0 +1,148 @@
+(footprint "BWSMA-KE-Z001"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -5.85 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0b7a2b17-3bf9-432a-9ae9-6e7e74b94fae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "2.4G ISM"
+		(at -8.5 0.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "90cd5b32-67cd-4a11-8258-fad4e6a8a266")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Footprint" "U's Footprint Library:BWSMA-KE-Z001"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5dcd63d-adf9-4c1e-97b1-55dc83d84a7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ed2ffd5-7116-485b-bf5e-b310771d3b73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "642c881c-edeb-41e7-aa7e-296b86d14be8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 4.54 4.525)
+		(end -4.54 -4.54)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "e60e1559-0905-49da-80f4-c39b90319917")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d07446b-09ac-4849-9219-2f0f2e9564fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a2a5e198-5159-471f-920d-520289479be7")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 -2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "88541a84-23bf-4445-913c-d91ec5029261")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0e9f659e-0ee9-4531-84a7-b21d1b93bf1b")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 -2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7005a3f4-18c0-4ffa-baa2-aae6bbb867ee")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "75f51cdb-a325-4aaf-ab1f-50f988f3a8f3")
+	)
+	(model "C:/Users/Asus/Documents/KiCad/8.0/3dmodels/SMA.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

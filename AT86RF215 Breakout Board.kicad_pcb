@@ -189,7 +189,7 @@
 	(net 43 "/RF24P_ic")
 	(net 44 "/CLKO_conn")
 	(net 45 "/~{RST}_conn")
-	(footprint "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
+	(footprint "Library:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "036f504b-fa4e-464f-b825-73ec87554941")
@@ -502,7 +502,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "067a6edf-5eb0-488d-b09f-c4f8dfb376d6")
@@ -716,7 +716,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "079fb696-b608-4a10-9479-83dd76393691")
@@ -930,7 +930,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "0f209e0d-6a92-4b5a-b2c7-860ec33b4e62")
@@ -1144,7 +1144,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "0fb9fe8a-e436-4a34-afc4-f181267da6fb")
@@ -1249,7 +1249,7 @@
 			(uuid "418b68e4-5d51-4313-a033-76557383e1b1")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "1031b1dc-a47e-44e0-af77-dfc443d73d9b")
@@ -1463,7 +1463,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "1938f333-d821-4346-9d61-f1f26b231e92")
@@ -1677,7 +1677,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
+	(footprint "Library:TestPoint_Pad_D1.0mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "1a4ee678-4cba-4aff-a37f-6b403c91ee89")
@@ -1796,7 +1796,7 @@
 			(uuid "d6092283-6c70-4d48-9f2b-228e5a350446")
 		)
 	)
-	(footprint "U's Footprint Library:BWSMA-KE-Z001"
+	(footprint "Library:BWSMA-KE-Z001"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "1fc035eb-ea69-4eed-8d80-a1f0e0e17df6")
@@ -1962,7 +1962,7 @@
 			)
 		)
 	)
-	(footprint "U's Footprint Library:0896BM15E0025"
+	(footprint "Library:0896BM15E0025"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "23b024d9-4210-4064-b72e-473a17cd0934")
@@ -2142,7 +2142,7 @@
 			(uuid "309bed1c-58ef-42cc-9cdb-458d1f83a3b7")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "273e06d8-c852-4ee4-aceb-97ce727ce674")
@@ -2356,7 +2356,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "33259e6f-d111-4840-83e3-b4d0ab0fd342")
@@ -2461,7 +2461,7 @@
 			(uuid "42996efb-d502-44dd-bc66-86c27371e9a7")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "33e7dc26-8b50-4447-aa50-0dd78692c038")
@@ -2675,7 +2675,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "3d67d4c7-3c99-4179-83ad-bb245b93f823")
@@ -2889,7 +2889,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
+	(footprint "Library:TestPoint_Pad_D1.0mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "420e071d-a5c3-4d1a-9444-5e4372168b48")
@@ -3008,7 +3008,7 @@
 			(uuid "43605902-2fe6-4df8-bcca-a08b77a5a586")
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x02_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "4210fe14-3aa7-4b7e-8976-caebdbc1cfd3")
@@ -3279,7 +3279,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_0402_1005Metric"
+	(footprint "Library:L_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "441fb367-329f-48f5-958c-f6bb6efa29ab")
@@ -3475,7 +3475,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "48226599-ec82-4b90-98ab-011aaca3350e")
@@ -3690,7 +3690,7 @@
 			)
 		)
 	)
-	(footprint "U's Footprint Library:7L26002007"
+	(footprint "Library:7L26002007"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "484f5be7-fa4d-4a57-87b8-f156143dfe74")
@@ -3832,7 +3832,7 @@
 			(uuid "cfb49f4c-2168-40a7-ac56-c380fe2d5370")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "525581f5-2890-48e7-8d0f-8926ba2057fc")
@@ -4046,7 +4046,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "565b21da-dacb-41e1-b015-893327397348")
@@ -4332,7 +4332,7 @@
 			(uuid "7233941e-f8c3-47da-94cd-2d3ee1cd7b76")
 		)
 	)
-	(footprint "Connector_Molex:Molex_SlimStack_53748-0408_2x20_P0.50mm_Vertical"
+	(footprint "Library:Molex_SlimStack_53748-0408_2x20_P0.50mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "5dad0864-79cc-4a36-ac2d-3c409a6879a2")
@@ -5150,7 +5150,7 @@
 			)
 		)
 	)
-	(footprint "U's Footprint Library:BWSMA-KE-Z001"
+	(footprint "Library:BWSMA-KE-Z001"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "620b013e-73ce-4e3e-8c7e-3b4a93a51b01")
@@ -5316,7 +5316,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x06_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "6b3d71aa-23bf-4222-bc45-94f19767e2a7")
@@ -5664,7 +5664,7 @@
 			)
 		)
 	)
-	(footprint "U's Footprint Library:AT86RF215"
+	(footprint "Library:AT86RF215"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "6c013ea2-4656-46af-99ac-8ff5c0fa1211")
@@ -6519,7 +6519,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "6c2c8d65-8ede-4458-a9ce-1d962cfcbe79")
@@ -6624,7 +6624,7 @@
 			(uuid "031a2358-7afc-4ea5-8678-d45786f804d7")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "6f3f36ee-2013-4fb6-b5dd-9dfdedff5b54")
@@ -6838,7 +6838,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x06_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "83103a38-b09e-4d4c-a084-53343bed426d")
@@ -7196,7 +7196,7 @@
 			)
 		)
 	)
-	(footprint "LOGO"
+	(footprint "Library:LOGO"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "89ad50bf-25bb-48de-8f4d-0ca311d02399")
@@ -7865,7 +7865,7 @@
 			(uuid "457a0314-ab21-4677-ab6a-a7e9e94e35f5")
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x06_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "920c0045-1199-4819-ba10-887fdc1190b5")
@@ -8224,7 +8224,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "96c3f740-98c7-44c4-a136-63a39d06f784")
@@ -8329,7 +8329,7 @@
 			(uuid "e9d6d1e3-003a-46a1-95dc-ff8cf8e452ba")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "992a44d0-e1dc-4543-9d0b-abd7f3343ac1")
@@ -8544,7 +8544,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a5466ea9-c3d0-4414-9c82-ce2406d3353f")
@@ -8758,7 +8758,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a78044ad-4428-48f2-ac02-fa61c5cc5cc4")
@@ -8972,7 +8972,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "b0b7e123-2fd5-4d5c-9797-d82660ffc6e2")
@@ -9186,7 +9186,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "b274eee7-56af-4b0b-ae71-8868e6877412")
@@ -9400,7 +9400,7 @@
 			)
 		)
 	)
-	(footprint "LOGO"
+	(footprint "Library:LOGO"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "b2cb8d53-da60-4cef-86cc-5392ba891c74")
@@ -9948,7 +9948,7 @@
 			(uuid "4f6503aa-ac23-49a1-8b9f-87a42801aa80")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "bdd3578d-f801-4c56-ba7b-abd76c1e40e0")
@@ -10162,7 +10162,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "c5aec30d-3f17-42a1-83c9-f31c1c4e6b11")
@@ -10376,7 +10376,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "c5f422c7-175b-4147-acdc-9407c39533dd")
@@ -10590,7 +10590,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "c817ca30-b7a8-4ece-9e93-5cacfa0cbf74")
@@ -10804,7 +10804,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
+	(footprint "Library:TestPoint_Pad_D1.0mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "cb5e037e-4713-4f0a-aa3c-b8aeedf08206")
@@ -10923,7 +10923,7 @@
 			(uuid "3e5ba485-9c4d-4732-9922-ffdaf11af68e")
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
+	(footprint "Library:TestPoint_Pad_D1.0mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "cf7ba565-e5cc-43dc-9ed2-438be8eee5d2")
@@ -11042,7 +11042,7 @@
 			(uuid "fc9f6c5e-8726-4836-a86d-bb1959e83cda")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "d4c3eb4f-99d9-4bab-8f25-90ff720e334d")
@@ -11256,7 +11256,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "d937faf5-3cbc-4f26-b9a8-5cc47240b564")
@@ -11470,7 +11470,7 @@
 			)
 		)
 	)
-	(footprint "U's Footprint Library:0896BM15E0025"
+	(footprint "Library:0896BM15E0025"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "d963ce75-119d-4b0f-a7c4-70d0bb32a91a")
@@ -11650,7 +11650,7 @@
 			(uuid "7ca54e78-deab-4b17-aff8-a156866a4c9e")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "dc3c3f80-6d48-44e1-bf3f-7f2e4a4d376f")
@@ -11864,7 +11864,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "e2307903-cf89-4dd2-88de-c789d3a442ec")
@@ -12078,7 +12078,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "e251eaae-ec1c-4d8b-bda2-3094febb3384")
@@ -12292,7 +12292,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "f25c034d-e194-44b2-8965-f7ee60ba31b9")
@@ -12506,7 +12506,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "f3b0f2c4-45c6-43a2-a5ee-86e6674cba51")
@@ -12720,7 +12720,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "f8d5d4b7-0500-4e2e-a5a3-b66952540629")
@@ -12934,7 +12934,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-3"
+	(footprint "Library:SOT-23-3"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "fa5abc10-eaab-4fd2-b7ae-79df1dda96e5")
@@ -13203,7 +13203,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "fb2f5091-ddc8-41f7-b4d2-7d2ffa3de420")
