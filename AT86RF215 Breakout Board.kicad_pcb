@@ -13512,6 +13512,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Controlled Impedance Board\nJLC04161H-3313 Stackup"
+		(at 138.35 31.55 0)
+		(layer "F.Fab")
+		(uuid "7af4d9c9-2623-4669-a43e-22f034028c86")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text_box "AT86RF215 - Breakout Board\nDesigned by Uday V Sharda \n"
 		(locked yes)
 		(start 152.25 82)
