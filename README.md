@@ -1,6 +1,6 @@
 # AT86RF215-Breakout-Board
-AT86RF215 Breakout Board is a **4-layer controlled impedance board with JLCPCB's JLC04161H-3313 Stackup.**  AT86RF215xx is a fully integrated radio transceiver covering 389.5-510MHz / 779-1020MHz / 2400-2483.5MHz. It is configured using the SPI bus to recieve and transmit while simultaneously operating the sub-1GHz and 2.4GHz radios.The impedance-matching filter are centered on 896MHz and 2450Mhz, so the design is optimized for the 2.4Ghz ISM and 900Mhz ISM bands. At 900MHz, transmit output power can be programmed upto +14dBm. The IQ interface with a sampling frequency of up to 4MHz, give it a decent bandwith.  
-
+AT86RF215 Breakout Board is a **4-layer controlled impedance board with JLCPCB's JLC04161H-3313 Stackup.**  AT86RF215xx is a fully integrated radio transceiver covering 389.5-510MHz / 779-1020MHz / 2400-2483.5MHz. It is configured using the SPI bus to recieve and transmit while simultaneously operating the sub-1GHz and 2.4GHz radios.The impedance-matching filter are centered on 896MHz and 2450Mhz, so the design is optimized for the 2.4Ghz ISM and 900Mhz ISM bands. At 900MHz, transmit output power can be programmed upto +14dBm. The IQ interface with a sampling frequency of up to 4MHz, give it a decent bandwith. 
+[View the full PDF Schematic](https://github.com/udayVsSharda/AT86RF215-Breakout-Board/blob/main/Documents%20/PDF-%20Schematic%20AT86RF215%20Breakout-Board.pdf)
 ![PCB Top-Side 3D-Render](Documents/PCB-TopSide-3D-Render.png)
 
 ## IQ Interface
